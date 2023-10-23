@@ -27,4 +27,4 @@ Engage in constructing efficient pipelines in Azure DevOps, ensuring your develo
 
 ## Embark on an Enlightening Voyage:
 
-Get ready to soar through the galaxies of knowledge and skill enhancement that this workshop promises! For a smooth and enlightening voyage, please ensure to review and adhere to the prerequisites outlined [here](https://github.com/Katerina-Chernevskaya/alm-space-explorer/blob/main/CheckPrerequisites.md).
+Get ready to soar through the galaxies of knowledge and skill enhancement that this workshop promises! For a smooth and enlightening voyage, please ensure to review and adhere to the prerequisites outlined [here](https://github.com/Katerina-Chernevskaya/alm-workshop/blob/main/CheckPrerequisites.md).
