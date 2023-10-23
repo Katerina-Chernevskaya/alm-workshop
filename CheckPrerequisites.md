@@ -51,8 +51,27 @@ Start your Power Apps Developer Plan [here](https://powerapps.microsoft.com/en-u
 
 ***
 
+## 5. Two Power Platform Environments created
+**Task:** Set up two distinct Power Platform environments to facilitate hands-on practice with CI/CD pipelines during the workshop.
 
-## 5. Azure DevOps Organization in your tenant
+:exclamation: _Note:
+One environment will serve as a development environment (name it DEV), while the other will act as a production or test environment (name it TEST)._
+
+**Outcome:** Two functional Power Platform environments that will be utilized in the workshop to demonstrate the CI/CD process effectively.
+
+***
+
+## 6. Unmanaged Solution Imported in Dev Environment
+**Task:** Ensure that an unmanaged demo solution is imported into your development Power Platform environment.
+
+:exclamation: _Note:
+Download the necessary unmanaged solution [here](./solution/GalacticGuide_1_0_0_3.zip)._
+
+**Outcome:** A development environment equipped with the required unmanaged solution, ready for the hands-on activities during the workshop.
+
+***
+
+## 7. Azure DevOps Organization in your tenant
 **Task:** Ensure that you have an Azure DevOps Organization created in your tenant, setting the stage for a seamless ALM workshop experience.
 
 :exclamation: _Note:
@@ -63,7 +82,7 @@ You can start for free and create an Azure DevOps Organization [here](https://de
 ***
 
 
-## 6. Enable Free Tier for Parallelism in Azure DevOps Organization
+## 8. Enable Free Tier for Parallelism in Azure DevOps Organization
 **Task:** Ensure that the free tier for parallelism is enabled in your Azure DevOps Organization to support concurrent operations, enhancing efficiency.
 
 :exclamation: _Note:
@@ -88,7 +107,7 @@ _To locate this link, click on the organization name associated with your newly 
 ***
 
 
-## 7. (optional) Visual Studio Code installed
+## 9. Visual Studio Code installed
 **Task:** Make sure to have Visual Studio Code installed on your laptop. If you don't have it installed and wish to complete the Lab which covers automating updates for environment variables and connection references, you can download it using [this link](https://code.visualstudio.com/).
 
 **Outcome:** You will be prepared to carry out the necessary steps for a smooth deployment process.
