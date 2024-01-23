@@ -19,11 +19,11 @@ Illuminate your processes by leveraging a service principal account, augmenting 
 - **Updates with Precision**:
 
 Learn to automate the prefilling of values for connection references and environment variables in accordance to each targeted environment.
-
+<!---
 - **Piloting through Pipelines in Managed Environments**:
 
 Engage in constructing efficient pipelines in Azure DevOps, ensuring your developmental journey is smooth and streamlined.
-
+--->
 
 ## Embark on an Enlightening Voyage:
 
